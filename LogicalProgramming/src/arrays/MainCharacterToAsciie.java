@@ -1,6 +1,6 @@
 package arrays;
 
-public class MainOfAsciiValue 
+public class MainCharacterToAsciie 
 {
   public static void main(String[] args)
   {

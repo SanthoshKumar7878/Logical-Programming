@@ -2,11 +2,11 @@ package arrays;
 
 public class GetContactAndEmail
 {
+   static java.util.Scanner SCANNER = new java.util.Scanner(System.in);
    public static void main(String[] args)
    {
 	   char[] contact;
 	   contact = new char[13];
-	   java.util.Scanner SCANNER = new java.util.Scanner(System.in);
 	   System.out.println("Enter your Contact number by using default code number as +91 ");
 	   for(int i=0;i<13;i++)
 	   {
